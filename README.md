@@ -1,6 +1,6 @@
 # learning-regExp 📖
 
-#### 정규 표현식(Regular Expression)의 개념과 자바스크립트에서의 정규표현식에 대해 학습
+#### 정규 표현식(Regular Expression) 학습 내용 정리
 ___
 # 목차
 
